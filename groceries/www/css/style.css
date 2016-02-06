@@ -1,0 +1,12 @@
+.top {
+	background-color: #009688;
+}
+
+.title {
+	color: white;
+}
+
+.purchased {
+	color: #9E9E9E;
+	text-decoration: line-through;
+}
